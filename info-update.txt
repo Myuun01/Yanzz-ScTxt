@@ -1,0 +1,39 @@
+🚀 *NEW UPDATE RELEASE* 🚀
+
+📝 *Nama SC:* Kyuuna Multi Device
+🛠 *Base Bot:* Base by @kazumarii made Baileys / Kyuuna-MD
+📅 *Tarikh Update:* 23 Mac 2026
+
+🆕 *Apa Yang Baru:*
+- Penambahan fitur TikTok Auto Downloader + auto audio
+- Penambahan fitur scrape Instagram Auto Downloader
+- Integrasi fitur tofigure terbaru
+- Perbaikan sistem Database (lebih laju)
+- Penambahan sistem on/off register
+- UI Menu baru yang lebih kemas
+
+🔧 *Fix & Perbaikan:*
+- Fix bug upsw 
+- Fix bug fitur ytmp3 yang selalu       delay
+- Fix crash pada sistem antilink
+- Fix error pada sistem Database
+- Fix error fitur ytmp4 
+- Fix fitur tagall
+
+📊 *Statistik:*
+- Fitur Saat Ini: 626+ Commands
+- Developer: iann/@dizee
+- bukan Dev : kyuuna
+- Owner: kyuuna
+
+🔜 *Next Update:* 
+- Penambahan fitur nsfw lebih banyak
+- Penambahan fitur auto db close/open group
+- Penambahan sistem ban dan premium user
+- panambahan auto db update sc
+- penambahan keamanan sistem sc
+
+
+
+
+_Terima kasih kerana menggunakan perkhidmatan kami!_
